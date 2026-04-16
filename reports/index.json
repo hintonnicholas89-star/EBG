@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260415-211406-03kt",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-04-16T02:14:06.000Z",
+      "dateEnd": "2026-04-16T03:43:24.000Z",
+      "dateLabel": "4/15/2026, 9:14:06 PM - 4/15/2026, 10:43:24 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260415-211406-03kt",
+      "summary": {
+        "borderlandsPct": 0.034482758620689655,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260413-212451-mk3t",
       "title": "Nico Da Illustrious",
       "commanders": [
