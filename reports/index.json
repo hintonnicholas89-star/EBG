@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-211156-g55q",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-06-02T02:11:56.000Z",
+      "dateEnd": "2026-06-02T04:50:17.000Z",
+      "dateLabel": "6/1/2026, 9:11:56 PM - 6/1/2026, 11:50:17 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260601-211156-g55q",
+      "summary": {
+        "borderlandsPct": 0.06976744186046512,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260528-222501-xzcg",
       "title": "Nico Da Illustrious, Sky Rynkiana",
       "commanders": [
