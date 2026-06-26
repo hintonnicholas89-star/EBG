@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260625-233819-8guq",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-06-26T04:38:19.000Z",
+      "dateEnd": "2026-06-26T05:11:53.000Z",
+      "dateLabel": "6/25/2026, 11:38:19 PM - 6/26/2026, 12:11:53 AM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260625-233819-8guq",
+      "summary": {
+        "borderlandsPct": 0.6538461538461539,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260626-000542-nzks",
       "title": "Nico Da Illustrious",
       "commanders": [
