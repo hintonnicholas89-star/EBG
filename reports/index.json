@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-000542-nzks",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-06-26T05:05:42.000Z",
+      "dateEnd": "2026-06-26T05:07:33.000Z",
+      "dateLabel": "6/26/2026, 12:05:42 AM - 6/26/2026, 12:07:33 AM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260626-000542-nzks",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260624-231752-fpkf",
       "title": "Nico Da Illustrious",
       "commanders": [
