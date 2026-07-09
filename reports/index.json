@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-211144-emai",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-09T02:11:44.000Z",
+      "dateEnd": "2026-07-09T03:02:53.000Z",
+      "dateLabel": "7/8/2026, 9:11:44 PM - 7/8/2026, 10:02:53 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260708-211144-emai",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260706-232742-7bgl",
       "title": "Nico Da Illustrious",
       "commanders": [
