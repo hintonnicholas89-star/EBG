@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-214724-mlfp",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-14T02:47:24.000Z",
+      "dateEnd": "2026-07-14T03:25:27.000Z",
+      "dateLabel": "7/13/2026, 9:47:24 PM - 7/13/2026, 10:25:27 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260713-214724-mlfp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260709-211915-22ou",
       "title": "Lörd Deadpool, Nico Da Illustrious",
       "commanders": [
