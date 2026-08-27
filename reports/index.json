@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-211046-w3tn",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "guild": {
+        "id": "736AD204-0213-E911-81AA-A77AA130EAB8",
+        "name": "Nic At Night In",
+        "tag": "EBG"
+      },
+      "dateStart": "2026-08-27T02:10:46.000Z",
+      "dateEnd": "2026-08-27T02:52:21.796Z",
+      "dateLabel": "8/26/2026, 9:10:46 PM - 8/26/2026, 9:52:21 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260826-211046-w3tn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260824-211744-wwkz",
       "title": "Treebark Quickgrow",
       "commanders": [
