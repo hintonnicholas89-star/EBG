@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-212411-583a",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "guild": {
+        "id": "736AD204-0213-E911-81AA-A77AA130EAB8",
+        "name": "Nic At Night In",
+        "tag": "EBG"
+      },
+      "dateStart": "2026-09-04T02:24:11.000Z",
+      "dateEnd": "2026-09-04T03:01:13.260Z",
+      "dateLabel": "9/3/2026, 9:24:11 PM - 9/3/2026, 10:01:13 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260903-212411-583a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 69,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260902-215819-tsuh",
       "title": "Cosmic Pyramid, Nico Da Illustrious",
       "commanders": [
