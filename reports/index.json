@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-214416-murp",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "guild": {
+        "id": "736AD204-0213-E911-81AA-A77AA130EAB8",
+        "name": "Nic At Night In",
+        "tag": "EBG"
+      },
+      "dateStart": "2026-09-15T02:44:16.000Z",
+      "dateEnd": "2026-09-15T03:36:56.607Z",
+      "dateLabel": "9/14/2026, 9:44:16 PM - 9/14/2026, 10:36:56 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20260914-214416-murp",
+      "summary": {
+        "borderlandsPct": 0.16279069767441862,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 36,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260910-231625-52oy",
       "title": "Nico Da Illustrious",
       "commanders": [
