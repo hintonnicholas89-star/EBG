@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261109-210952-t6wo",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "guild": {
+        "id": "736AD204-0213-E911-81AA-A77AA130EAB8",
+        "name": "Nic At Night In",
+        "tag": "EBG"
+      },
+      "dateStart": "2026-11-10T03:09:52.000Z",
+      "dateEnd": "2026-11-10T04:06:37.609Z",
+      "dateLabel": "11/9/2026, 9:09:52 PM - 11/9/2026, 10:06:37 PM",
+      "url": "https://hintonnicholas89-star.github.io/EBG/?report=20261109-210952-t6wo",
+      "publishedBy": "hintonnicholas89-star",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20261105-211811-ump1",
       "title": "Nico Da Illustrious",
